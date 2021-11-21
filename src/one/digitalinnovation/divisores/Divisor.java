@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package one.digitalinnovation.divisores;
 /*
 Ler um número inteiro N e calcular todos os seus divisores.
 

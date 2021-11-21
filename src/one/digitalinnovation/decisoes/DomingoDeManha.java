@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package one.digitalinnovation.decisoes;
 /*
 Domingo é dia de feira. Logo de manhã muitas pessoas se deslocam para o polo de lazer da Parangaba,
 onde acontece uma feira, conhecida por ser a maior da cidade. Na feira da Parangaba você pode encontrar de tudo.

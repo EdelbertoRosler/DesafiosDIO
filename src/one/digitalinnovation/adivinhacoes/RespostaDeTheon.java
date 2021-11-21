@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package one.digitalinnovation.adivinhacoes;
 /*
 Ramsay: "(...) você vence se conseguir adivinhar quem eu sou e por que estou torturando você."
 Theon deve pensar rápido e adivinhar quem é seu algoz! Entretanto, Ramsay já decidiu o que ele
